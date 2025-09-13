@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Thông tin Open Graph cho Facebook -->
+  <meta property="og:title" content="Deal Shopee siêu hot 🚀">
+  <meta property="og:description" content="Click ngay để xem sản phẩm ưu đãi trên Shopee!">
+  <meta property="og:image" content="https://raw.githubusercontent.com/Kylian8833/Kyliannn/refs/heads/main/BetterImage_1757621239841.jpeg">
+  <meta property="og:url" content="https://shopee.vn/product/392908478/5183644827?...">
+  <meta property="og:type" content="website">
+  
+  <!-- Auto redirect sang Shopee -->
+  <meta http-equiv="refresh" content="0;url=https://shopee.vn/product/392908478/5183644827?...">
+</head>
+<body>
+  <p>Nếu không tự động chuyển, bấm vào link này: 
+    <a href="https://shopee.vn/product/392908478/5183644827?...">Xem sản phẩm Shopee</a>
+  </p>
+</body>
+</html>
